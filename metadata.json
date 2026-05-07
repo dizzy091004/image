@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Resizer",
+  "description": "A clean and efficient image resizing tool with real-time preview, aspect ratio locking, and client-side processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
